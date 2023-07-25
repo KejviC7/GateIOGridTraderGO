@@ -1,2 +1,2 @@
-# BinanceGridTraderGO
-Grid Trading Bot in Binance (Golang)
+# GateIOGridTraderGO
+Grid Trading Bot in GateIO (Golang)
